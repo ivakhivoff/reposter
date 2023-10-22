@@ -1,0 +1,47 @@
+API_ID = "21258885"
+API_HASH = "e588b0c2fda680fcf7c03bdfa61c2ff1"
+SESSION = ("6283153358788.session", "6283153358572.session", "6283153352542.session", "6283153352482.session", "6283153352346.session", "6283153352043.session", "6283153352036.session", "6283153351970.session", "6283153351940.session", "6283153351869.session", "6283153304395.session", "6283153276043.session", "6283153276026.session", "6283153275553.session", "6283153275063.session", "6283152677088.session", "6283152672317.session", "6283152672290.session", "6283152499800.session", "6283152499645.session", "6283152077523.session", "6283152071740.session", "6283151924198.session", "6283151622785.session", "6283151287227.session", "6283151282914.session")
+DESTINATION = "@podizus85"  # получатель
+CHATS = (
+    "@banksailor",
+    "@seamaningermane",
+    "@seamaningermane",
+    "@seagroupchat",
+    "@sng_seafarers",
+    "@EstDocChat",
+    "@vacanciess_at_sea",
+    "@ukrgeosailors",
+    "@SailorsUkrainian",
+    "@UA_Seaman_In_Canada",
+    "@maritime_communication",
+    "@rabota_v_more2",
+    "@seagent",
+    "@maritimecommunity",
+    "@in_Euro",
+    "@marinedocservices",
+    "@professiaseamen_chat",
+    "@ukrainesailorbulgaria",
+    "@DocumentForSeaman",
+    "@Moryaki1",
+)  # кортеж из телеграм чатов, которые мы будем парсить
+KEY_WORDS = (
+    "marlins",
+    "ces",
+    "sets",
+    "safebridge",
+    "ecdis",
+    "transas",
+    "dynamica",
+    "seagull",
+    "amos",
+    "colreg",
+    "marpol",
+    "learnmarine",
+    "тесты",
+    "сдать тест",
+    "пройти тест",
+    "цес",
+    "сейфбридж",
+    "экдис",
+    "сигал",
+)  # ключевые слова которые должны быть в сообщении
